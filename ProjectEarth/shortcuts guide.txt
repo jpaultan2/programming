@@ -1,0 +1,19 @@
+when creating html
+
+! then tab
+
+html element then tab (no need to add < and >)
+
+div#<name>  creates div id
+.<name> creates div class
+input:<name> creates input type 
+button.<name> creates button class
+
+
+in CSS
+
+blank for element (e.g. main, header, etc.)
+.  for classname (e.g. task-list
+# for ID
+
+
